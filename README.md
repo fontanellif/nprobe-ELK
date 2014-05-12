@@ -4,6 +4,7 @@
 
 [The Elasticsearch ELK Stack](http://www.elasticsearch.org/overview/)
 
+[Keynote](/nProbe_App_for_Splunk_and_ELK.pdf "nProbe Splunk and ELK")
 # Setup
 
 The entire setup has been automated for Ubuntu. Simply run the following commands:
