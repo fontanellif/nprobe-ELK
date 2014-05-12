@@ -1,4 +1,4 @@
-# What is nProbe EKL Stak?
+# What is nProbe ElK Stak?
 
 [nProbe™ v6 An Extensible NetFlow v5/v9/IPFIX GPL Probe for IPv4/v6](http://www.ntop.org/products/nprobe/)
 
