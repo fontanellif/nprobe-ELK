@@ -1,0 +1,1772 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"examples"
+			],
+			[
+				"roo",
+				"ROOT"
+			],
+			[
+				"LO",
+				"LOGSTASH_LOG"
+			],
+			[
+				"L",
+				"LOGSTASH_CONF"
+			],
+			[
+				"E",
+				"ELASTICSEARCH_CONF"
+			],
+			[
+				"LOG",
+				"LOGSTASH_BIN"
+			],
+			[
+				"log",
+				"logstash"
+			],
+			[
+				"ela",
+				"elasticsearch_conf"
+			],
+			[
+				"ea",
+				"elasticsearch_yum"
+			],
+			[
+				"lo",
+				"logstash"
+			],
+			[
+				"el",
+				"elasticsearch"
+			],
+			[
+				"sys",
+				"sys_host"
+			],
+			[
+				"getH",
+				"getHostInfo"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"is",
+				"isWindows"
+			],
+			[
+				"get",
+				"gettimemsec"
+			],
+			[
+				"pri",
+				"printTable"
+			],
+			[
+				"ho",
+				"hosts_stats"
+			],
+			[
+				"print",
+				"printTable"
+			],
+			[
+				"set",
+				"setCache"
+			],
+			[
+				"fun",
+				"fun	function"
+			],
+			[
+				"de",
+				"details	@details"
+			],
+			[
+				"exa",
+				"examples"
+			],
+			[
+				"els",
+				"elsif"
+			],
+			[
+				"ins",
+				"instance_app_dialog"
+			],
+			[
+				"dash",
+				"dash_c"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"if",
+				"if	Conditional"
+			],
+			[
+				"cluste",
+				"cluster_satus"
+			],
+			[
+				"ch",
+				"channels"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"con",
+				"conf_int"
+			],
+			[
+				"full",
+				"fullname"
+			],
+			[
+				"cha",
+				"channel"
+			],
+			[
+				"li",
+				"list_dash_n"
+			],
+			[
+				"in",
+				"inst"
+			],
+			[
+				"chan",
+				"channels"
+			],
+			[
+				"for",
+				"fore	Loop"
+			],
+			[
+				"depp",
+				"dep_name_channels_separator"
+			],
+			[
+				"ha",
+				"hash_dash_n"
+			],
+			[
+				"da",
+				"dash_n"
+			],
+			[
+				"chane",
+				"channel_list"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"insta",
+				"instances_list"
+			],
+			[
+				"instances",
+				"instances_list"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"remo",
+				"removed_list"
+			],
+			[
+				"remove",
+				"removed_app"
+			],
+			[
+				"channel",
+				"channel"
+			],
+			[
+				"n_n",
+				"n_channles"
+			],
+			[
+				"dash_p",
+				"dash_p"
+			],
+			[
+				"un",
+				"unused"
+			],
+			[
+				"chann",
+				"channels"
+			],
+			[
+				"clus",
+				"cluster_applications"
+			],
+			[
+				"row",
+				"row_id"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"ifi",
+				"ifi"
+			],
+			[
+				"fol",
+				"folder_instances_ref"
+			],
+			[
+				"war",
+				"warning_description"
+			],
+			[
+				"op",
+				"opendir"
+			],
+			[
+				"instance",
+				"instance_params"
+			],
+			[
+				"int",
+				"instances_names"
+			],
+			[
+				"fo",
+				"fore	Loop"
+			],
+			[
+				"dash_",
+				"dash_3"
+			],
+			[
+				"singl",
+				"single_interface"
+			],
+			[
+				"isd",
+				"isdna"
+			],
+			[
+				"inst",
+				"instances"
+			],
+			[
+				"sl",
+				"split"
+			],
+			[
+				"disk",
+				"disk2n-"
+			],
+			[
+				"fore",
+				"fore	Loop"
+			],
+			[
+				"s",
+				"slurp	Read File"
+			],
+			[
+				"new",
+				"new_instance_name"
+			],
+			[
+				"das",
+				"dash_c"
+			],
+			[
+				"defa",
+				"default"
+			],
+			[
+				"ma",
+				"mem_available"
+			],
+			[
+				"getD",
+				"getDash_bOptions"
+			],
+			[
+				"dash_c",
+				"dash_C_options"
+			],
+			[
+				"mem",
+				"mem_available"
+			],
+			[
+				"l",
+				"l0"
+			],
+			[
+				"gb",
+				"gbc"
+			],
+			[
+				"act",
+				"active_interface_list"
+			],
+			[
+				"conf",
+				"config_name"
+			],
+			[
+				"confi",
+				"config_name"
+			],
+			[
+				"clone",
+				"clonetab"
+			],
+			[
+				"inte",
+				"interface_list"
+			],
+			[
+				"conf_",
+				"conf_file_path"
+			],
+			[
+				"dna",
+				"dna1"
+			],
+			[
+				"ou",
+				"out_disk2n_instance_"
+			],
+			[
+				"re",
+				"real_i"
+			],
+			[
+				"Config",
+				"configuration"
+			],
+			[
+				"v",
+				"VERBOSE"
+			],
+			[
+				"bac",
+				"BACKUP"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "logstash",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/ntopng.org/ntopng.conf",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "nprobe -T \"%IPV4_SRC_ADDR %L4_SRC_PORT %IPV4_DST_ADDR %L4_DST_PORT %PROTOCOL %IN_BYTES %OUT_BYTES %FIRST_SWITCHED %LAST_SWITCHED %HTTP_SITE %HTTP_RET_CODE %IN_PKTS %OUT_PKTS %IP_PROTOCOL_VERSION %APPLICATION_ID %L7_PROTO_NAME %ICMP_TYPE\" --tcp \"127.0.0.1:5556\" -b 2 -i eth0 --json-labels",
+			"settings":
+			{
+				"buffer_size": 287,
+				"line_ending": "Unix",
+				"name": "nprobe -T \"%IPV4_SRC_ADDR %L4_SRC_PORT %IPV4_DST_A"
+			}
+		},
+		{
+			"file": "examples/ntopng.org/nprobe-nbox.conf",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "input {"
+			}
+		},
+		{
+			"file": "examples/ntopng.org/stdin.conf",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "input {"
+			}
+		},
+		{
+			"file": "examples/ntopng.org/nprobe-osx.conf",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "input {"
+			}
+		},
+		{
+			"file": "examples/ntopng.org/nprobe.conf",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "input {"
+			}
+		},
+		{
+			"file": "ntopng_logstash",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "full-version/logstash_server",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "elk.sh",
+			"settings":
+			{
+				"buffer_size": 2540,
+				"line_ending": "Unix",
+				"name": "#!/bin/bash"
+			}
+		},
+		{
+			"file": "elk.sublime-project",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "ntopng",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Snippet: Object Value JS"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synmo",
+				"Set Syntax: ModernPerl"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/ntopng.org/ntopng.conf.bak",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/full-version/init/logstash.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/full-version/init/logstash",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/default/elasticsearch.yml",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/ntopng.org/ntopng-zmq.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/README.md",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/ntopng_logstash",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/logstash.net/hello-search.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/ntopng.org/ntopng-metrics.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/ntopng.org/ntopng-redis.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/full-version/conf/indexer.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/ntopng.org/ntopng.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/img/ntopng_kibana_dashboard.png",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/ntopng.org/input.json",
+		"/Users/fontanellif/Downloads/Logstash_Kibana3/install_logstash_kibana_ubuntu.sh",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/full-version/README.md",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/full-version/logstash_server",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/logstash_server copy",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/logstash",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/logstash.net/apache_log.2",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/logstash.net/apache-elasticsearch.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/examples/hello-search.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/conf/ntopng-zmq.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/conf/ntopng.conf",
+		"/Applications/Splunk/etc/apps/ntopng/sampledata/allhost_test.json",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/example/input.json",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/init/logstash-web",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/init/logstash",
+		"/Users/fontanellif/svn/nprobe_6.15.140117_svn3829/nprobe.c",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/ntopng-logstash",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/logstash_server",
+		"/Users/fontanellif/Dropbox/0-ntop/sshfs/sshfs.sh",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/etc/elasticsearch/elasticsearch.yml",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/full-version/conf/logstash_server.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/project.sublime-workspace",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/init/logstash.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/init/kibana.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/default/elasticsearch",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/conf/indexer.conf",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/conf/rsyslog.conf",
+		"/Users/fontanellif/Downloads/elasticsearch-0.90.10/config/elasticsearch.yml",
+		"/Users/fontanellif/github/ntopng-logstash-elasticsearch-kibana/example_commit",
+		"/Users/fontanellif/svn/ntopng/do_export_data.lua",
+		"/Users/fontanellif/svn/ntopng/httpdocs/ssl/README.SS",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/admin/password_reset.lua",
+		"/Users/fontanellif/svn/ntopng/httpdocs/inc/password_dialog.inc",
+		"/Users/fontanellif/svn/ntopng/CollectorInterface.cpp",
+		"/Users/fontanellif/svn/ntopng/Prefs.cpp",
+		"/Users/fontanellif/svn/ntopng/httpdocs/inc/add_user_dialog.inc",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/admin/users.lua",
+		"/Users/fontanellif/svn/ntopng/NetworkInterface.h",
+		"/Users/fontanellif/svn/ntopng/GenericHash.cpp",
+		"/Users/fontanellif/svn/ntopng/Host.cpp",
+		"/Users/fontanellif/svn/ntopng/NetworkInterface.cpp",
+		"/Users/fontanellif/svn/ntopng/Lua.cpp",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/host_details.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/API.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/iface_ndpi_stats.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/examples/ntop.lua",
+		"/etc/asl.conf",
+		"/Users/fontanellif/.bash_profile",
+		"/Users/fontanellif/svn/ntopng/third-party/LuaJIT-2.0.2/COPYRIGHT",
+		"/Users/fontanellif/svn/ntopng/Redis.h",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/set_if_prefs.lua",
+		"/Users/fontanellif/svn/ntopng/Host.h",
+		"/Users/fontanellif/svn/ntopng/GenericHashEntry.h",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/example/ntop.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/example/debug.lua",
+		"/Users/fontanellif/svn/ntopng/Redis.cpp",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/get_host_activitymap.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/get_host_contacts.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/set_active_interface.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/host_get_json.lua",
+		"/Users/fontanellif/svn/ntopng/EthStats.cpp",
+		"/Users/fontanellif/svn/ntopng/NdpiStats.cpp",
+		"/Users/fontanellif/svn/ntopng/PacketStats.cpp",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/if_stats.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/examples/debug.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/do_export_data.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/export_data.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/index.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/examples/interface.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/get_host_traffic.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/example/interface.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/modules/lua_utils.lua",
+		"/Users/fontanellif/svn/ntopng/interface.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/host_stats.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/modules/graph_utils.lua",
+		"/Users/fontanellif/svn/ntopng/httpdocs/inc/hosts_stats_bottom.inc",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/get_hosts_data.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/inc/menu.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/hosts_stats.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/hello_world.lua",
+		"/Users/fontanellif/svn/ntopng/GenericHost.cpp",
+		"/Users/fontanellif/svn/ntopng/ActivityStats.cpp",
+		"/Users/fontanellif/svn/ntopng/ActivityStats.h",
+		"/Users/fontanellif/svn/ntopng/ntopng.8",
+		"/Users/fontanellif/svn/ntopng/PcapInterface.cpp",
+		"/Users/fontanellif/svn/ntopng/AddressResolution.cpp",
+		"/Users/fontanellif/svn/ntopng/Prefs.h",
+		"/Users/fontanellif/svn/ntopng/Ntop.h",
+		"/Users/fontanellif/svn/ntopng/main.cpp",
+		"/Users/fontanellif/svn/ntopng/ntopng.conf",
+		"/Users/fontanellif/svn/ntopng/config.guess",
+		"/Users/fontanellif/svn/ntopng/Ntop.cpp",
+		"/Users/fontanellif/svn/ntopng/third-party/hiredis/hiredis.h",
+		"/Users/fontanellif/svn/ntopng/Trace.h",
+		"/Users/fontanellif/svn/ntopng/third-party/EWAHBoolArray/headers/ewah.h",
+		"/Users/fontanellif/svn/ntopng@svn.sublime-project",
+		"/Users/fontanellif/svn/ntopng/GenericHash.h",
+		"/Users/fontanellif/svn/ntopng/GenericHost.h",
+		"/opt/local/include/lauxlib.h",
+		"/Users/fontanellif/svn/ntopng/ntop_defines.h",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/modules/flow_utils.lua",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/iface_hosts_list.lua",
+		"/Users/fontanellif/svn/ntopng/HostContacts.cpp",
+		"/Users/fontanellif/svn/ntopng/StringHost.cpp",
+		"/Users/fontanellif/svn/ntopng/Flow.cpp",
+		"/Users/fontanellif/svn/ntopng/NtopGlobals.h",
+		"/Users/fontanellif/svn/ntopng/Utils.cpp",
+		"/Users/fontanellif/svn/ntopng/third-party/zeromq-3.2.3/src/zmq.cpp",
+		"/Users/fontanellif/svn/ntopng/scripts/lua/flow_details.lua",
+		"/Users/fontanellif/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fontanellif/svn/ntopng/doc/doxygen.conf",
+		"/Users/fontanellif/svn/ntopng/Lua.h",
+		"/Users/fontanellif/svn/ntopng/packages/ubuntu/debian.ntopng/preinst",
+		"/Users/fontanellif/svn/ntopng/third-party/rrdtool-1.4.7/src/rrd.h",
+		"/Users/fontanellif/svn/ntopng/third-party/rrdtool-1.4.7/src/rrd_create.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"nBox",
+			"“",
+			"\"",
+			"\n",
+			"/kibana",
+			"patterns_path",
+			"\n  ",
+			"29/Aug/2011",
+			"    ",
+			", \"",
+			" ",
+			"json",
+			"log_end_msg",
+			"EOF",
+			"cluster.name",
+			"http.port",
+			"discovery",
+			"node.maste",
+			"number_of_shards",
+			"index",
+			"bootstrap",
+			"path.data",
+			"number_of_shards",
+			"ROOT",
+			"zmq",
+			"zm",
+			"'['..diff..'ago]",
+			"..'['..diff..'ago]",
+			"formatEpoch(",
+			" ",
+			"duration",
+			"proto.l4",
+			"ip",
+			"secondsToTime",
+			"install",
+			"json",
+			"ntop_get_interface_flows_info",
+			"getFlowsInfo",
+			"startPacketPolling",
+			"packetPollLoop",
+			"random_host",
+			"getHostInfo",
+			"syslog",
+			"startPacketPolling",
+			"syslog",
+			"ntop_syslog",
+			"flush",
+			"dump_hosts_to_db",
+			"sticky_hosts",
+			"sticky",
+			"S",
+			"-S",
+			"Unk",
+			"unk",
+			"redis_key",
+			"initialize",
+			"redi",
+			"redis",
+			"ntop_get_interface_host_info",
+			"getHostInfo",
+			"ntop_restore_interface_host",
+			"restoreHost",
+			"restore",
+			"re",
+			"resto	",
+			"getAggregatedHostsInfo",
+			"getAggregatedHostInfo",
+			"getAggregationsForHost",
+			"findHost",
+			"findFlowByKey",
+			"information",
+			"ntop",
+			"ntopng",
+			"informations",
+			"information",
+			"onto",
+			"into",
+			"getActiveAggregatedHostsList",
+			"ntop_get_interface_stats",
+			"getStats",
+			"ntop_get_interface_aggregated_hosts_info",
+			"\n",
+			"'",
+			"io.w",
+			"The ntopng lua",
+			"ntopng",
+			"<li>",
+			"\n",
+			"'",
+			"flows_stats",
+			"   ",
+			"hosts",
+			"hostinfotype",
+			"printTable",
+			"infotype",
+			"ndpi",
+			"ndp",
+			"nd",
+			"ifstats.nd",
+			"ifstats",
+			"getStats",
+			"ntop_get_interface_stats",
+			"getStats",
+			":lua",
+			"lua",
+			"json",
+			"JSON",
+			"ntop_get_interface_host_info",
+			"getHostInfo",
+			"more_one_host",
+			"end",
+			"type",
+			"infotype",
+			"lua/",
+			"hr",
+			"value",
+			"num",
+			"nume",
+			"numeri",
+			"bo",
+			"bol",
+			"bool",
+			"ntop_get_interface_hosts_info",
+			"ntop_get_interface_hosts",
+			"lua_newtable",
+			"getActiveHostsList",
+			"ntop_get_interface_hosts",
+			"getHosts"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "logstash",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "examples/ntopng.org/ntopng.conf",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"auto_name": "nprobe -T \"%IPV4_SRC_ADDR %L4_SRC_PORT %IPV4_DST_A",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "examples/ntopng.org/nprobe-nbox.conf",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "input {",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "examples/ntopng.org/stdin.conf",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "input {",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "examples/ntopng.org/nprobe-osx.conf",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "input {",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "examples/ntopng.org/nprobe.conf",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "input {",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ntopng_logstash",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "full-version/logstash_server",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "elk.sh",
+					"settings":
+					{
+						"buffer_size": 2540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2515,
+								2538
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/bin/bash",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "elk.sublime-project",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 469.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"do",
+				"scripts/lua/do_export_data.lua"
+			],
+			[
+				"lua.",
+				"Lua.cpp"
+			],
+			[
+				"colle",
+				"CollectorInterface.cpp"
+			],
+			[
+				"interface.l",
+				"scripts/lua/examples/interface.lua"
+			],
+			[
+				"ntop.l",
+				"scripts/lua/examples/ntop.lua"
+			],
+			[
+				"hostj",
+				"scripts/lua/host_get_json.lua"
+			],
+			[
+				"lua",
+				"Lua.cpp"
+			],
+			[
+				"iface_ndpi_stats.lua",
+				"scripts/lua/iface_ndpi_stats.lua"
+			],
+			[
+				"api",
+				"scripts/lua/API.lua"
+			],
+			[
+				"pref",
+				"Prefs.cpp"
+			],
+			[
+				"password_reset.lua",
+				"scripts/lua/admin/password_reset.lua"
+			],
+			[
+				"password_dialog.inc",
+				"httpdocs/inc/password_dialog.inc"
+			],
+			[
+				"add_user_dialog.inc",
+				"httpdocs/inc/add_user_dialog.inc"
+			],
+			[
+				"/users.lua",
+				"scripts/lua/admin/users.lua"
+			],
+			[
+				"netin",
+				"NetworkInterface.h"
+			],
+			[
+				"luac",
+				"Lua.cpp"
+			],
+			[
+				"lua.co",
+				"third-party/LuaJIT-2.0.2/COPYRIGHT"
+			],
+			[
+				"host_del",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"get_host_traffic",
+				"scripts/lua/get_host_traffic.lua"
+			],
+			[
+				"do_export_data.lua",
+				"scripts/lua/do_export_data.lua"
+			],
+			[
+				"export_data.lua",
+				"scripts/lua/export_data.lua"
+			],
+			[
+				"lua_uti",
+				"scripts/lua/modules/lua_utils.lua"
+			],
+			[
+				"hostde",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"if_stats.lua",
+				"scripts/lua/if_stats.lua"
+			],
+			[
+				"inde",
+				"scripts/lua/index.lua"
+			],
+			[
+				"set_active_interface.lua",
+				"scripts/lua/set_active_interface.lua"
+			],
+			[
+				"get_host_activitymap.lua",
+				"scripts/lua/get_host_activitymap.lua"
+			],
+			[
+				"hostdet",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"jsonlua",
+				"scripts/lua/host_get_json.lua"
+			],
+			[
+				"de",
+				"scripts/lua/example/debug.lua"
+			],
+			[
+				"utillua",
+				"scripts/lua/modules/lua_utils.lua"
+			],
+			[
+				"gethostcon",
+				"scripts/lua/get_host_contacts.lua"
+			],
+			[
+				"get_host_contacts",
+				"scripts/lua/get_host_contacts.lua"
+			],
+			[
+				"set_if_prefs.lua",
+				"scripts/lua/set_if_prefs.lua"
+			],
+			[
+				"interfa",
+				"interface.lua"
+			],
+			[
+				"debug",
+				"scripts/lua/example/debug.lua"
+			],
+			[
+				"host_",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"interf",
+				"interface.lua"
+			],
+			[
+				"host_get_json.lua",
+				"scripts/lua/host_get_json.lua"
+			],
+			[
+				"host_stats.lua",
+				"scripts/lua/host_stats.lua"
+			],
+			[
+				"host_details.lua",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"hosts_stats_bottom",
+				"httpdocs/inc/hosts_stats_bottom.inc"
+			],
+			[
+				"get_hosts_data.lua",
+				"scripts/lua/get_hosts_data.lua"
+			],
+			[
+				"menu.lua",
+				"scripts/lua/inc/menu.lua"
+			],
+			[
+				"lua_utils",
+				"scripts/lua/modules/lua_utils.lua"
+			],
+			[
+				"hosts_stats.lua",
+				"scripts/lua/hosts_stats.lua"
+			],
+			[
+				"lua.c",
+				"Lua.cpp"
+			],
+			[
+				"hostlua",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"luahost",
+				"scripts/lua/host_details.lua"
+			],
+			[
+				"generi",
+				"GenericHost.h"
+			],
+			[
+				"gene",
+				"GenericHost.cpp"
+			],
+			[
+				"host",
+				"Host.h"
+			],
+			[
+				"nto",
+				"ntopng.8"
+			],
+			[
+				"pcapinterface.cpp",
+				"PcapInterface.cpp"
+			],
+			[
+				"ntop.c",
+				"Ntop.cpp"
+			],
+			[
+				"net",
+				"NetworkInterface.h"
+			],
+			[
+				"host.cp",
+				"Host.cpp"
+			],
+			[
+				"addre",
+				"AddressResolution.cpp"
+			],
+			[
+				"conf",
+				"config.guess"
+			],
+			[
+				"redis",
+				"Redis.cpp"
+			],
+			[
+				"redis.c",
+				"Redis.cpp"
+			],
+			[
+				"ntop_defines.h",
+				"ntop_defines.h"
+			],
+			[
+				"doxygen",
+				"doc/doxygen.conf"
+			],
+			[
+				"gra",
+				"scripts/lua/modules/graph_utils.lua"
+			],
+			[
+				"flow_utils",
+				"scripts/lua/modules/flow_utils.lua"
+			],
+			[
+				"flow_",
+				"scripts/lua/modules/flow_utils.lua"
+			],
+			[
+				"geth",
+				"scripts/lua/get_host_activitymap.lua"
+			],
+			[
+				"iface",
+				"scripts/lua/iface_hosts_list.lua"
+			],
+			[
+				"findo",
+				"scripts/lua/find_host.lua"
+			],
+			[
+				"seta",
+				"scripts/lua/set_active_interface.lua"
+			],
+			[
+				"dox",
+				"doc/doxygen.conf"
+			],
+			[
+				"ntop",
+				"Ntop.h"
+			],
+			[
+				"doxyge",
+				"doc/doxygen.conf"
+			],
+			[
+				"doxy",
+				"doc/doxygen.conf"
+			],
+			[
+				"hello",
+				"scripts/lua/hello_world.lua"
+			],
+			[
+				"per",
+				"PeriodicActivities.cpp"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"makefi",
+				"Makefile.in"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"lj_lex.h",
+				"third-party/LuaJIT-2.0.2/src/lj_lex.h"
+			],
+			[
+				"luaconf",
+				"third-party/LuaJIT-2.0.2/src/luaconf.h"
+			],
+			[
+				"ntopng_",
+				"doc/ntopng_doxygen"
+			],
+			[
+				"main",
+				"doc/mainpage.dox"
+			],
+			[
+				"mainp",
+				"mainpage.dox"
+			],
+			[
+				"flowh",
+				"FlowHash.cpp"
+			],
+			[
+				"neto",
+				"NetworkInterface.h"
+			],
+			[
+				"https",
+				"HTTPserver.cpp"
+			],
+			[
+				"http",
+				"HTTPserver.h"
+			],
+			[
+				"interface",
+				"NetworkInterface.h"
+			],
+			[
+				"ntop_includes",
+				"ntop_includes.h"
+			],
+			[
+				"confnproin",
+				"templates/config_nprobe_instance.html"
+			],
+			[
+				"start_n",
+				"ntop-bin/start_n.cgi"
+			],
+			[
+				"confnpro",
+				"templates/config_nprobe.html"
+			],
+			[
+				"writeconclu",
+				"ntop-bin/write_conf_cluster.cgi"
+			],
+			[
+				"config_cluster",
+				"templates/config_cluster_instance.html"
+			],
+			[
+				"app",
+				"ntop-bin/app_logs.cgi"
+			],
+			[
+				"util",
+				"utils/util.pl"
+			],
+			[
+				"uti",
+				"utils/config.pl"
+			],
+			[
+				"confn2din",
+				"ntop-bin/config_n2disk_instance.cgi"
+			],
+			[
+				"writenpr",
+				"ntop-bin/write_conf_nprobe.cgi"
+			],
+			[
+				"confn2d",
+				"ntop-bin/config_n2disk.cgi"
+			],
+			[
+				"wrin2",
+				"ntop-bin/write_conf_n2disk.cgi"
+			],
+			[
+				"confdi",
+				"ntop-bin/config_disk2n.cgi"
+			],
+			[
+				"confn2diin",
+				"templates/config_n2disk_instance.html"
+			],
+			[
+				"writen2",
+				"ntop-bin/write_conf_n2disk.cgi"
+			],
+			[
+				"conn2di",
+				"ntop-bin/config_n2disk_instance.cgi"
+			],
+			[
+				"confdisin",
+				"ntop-bin/config_disk2n_instance.cgi"
+			],
+			[
+				"app_logs",
+				"ntop-bin/app_logs.cgi"
+			],
+			[
+				"confdisk",
+				"templates/config_disk2n.html"
+			],
+			[
+				"confdis",
+				"ntop-bin/config_disk2n.cgi"
+			],
+			[
+				"disk",
+				"ntop-bin/disk2n_live.cgi"
+			],
+			[
+				"star",
+				"ntop-bin/start_n.cgi"
+			],
+			[
+				"wrieclu",
+				"ntop-bin/write_conf_cluster.cgi"
+			],
+			[
+				"confclus",
+				"templates/config_cluster.html"
+			],
+			[
+				"res",
+				"ntop-bin/reset_conf_cluster.cgi"
+			],
+			[
+				"confclu",
+				"ntop-bin/config_cluster.cgi"
+			],
+			[
+				"rese",
+				"ntop-bin/reset_conf_cluster.cgi"
+			],
+			[
+				"writeclu",
+				"ntop-bin/write_conf_cluster.cgi"
+			],
+			[
+				"concluin",
+				"ntop-bin/config_cluster_instance.cgi"
+			],
+			[
+				"add",
+				"templates/add_instance_dialog.html"
+			],
+			[
+				"remo",
+				"templates/remove_application_from_cluster_dialog.html"
+			],
+			[
+				"ubun",
+				"utils/config-ubuntu.pl"
+			],
+			[
+				"start_n.cgi",
+				"ntop-bin/start_n.cgi"
+			],
+			[
+				"conclu",
+				"templates/config_cluster.html"
+			],
+			[
+				"h",
+				"templates/header.html"
+			],
+			[
+				"confclusin",
+				"templates/config_cluster_instance.html"
+			],
+			[
+				"resnp",
+				"ntop-bin/reset_conf_nprobe.cgi"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
