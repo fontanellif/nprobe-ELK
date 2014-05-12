@@ -9,34 +9,17 @@
 The entire setup has been automated for Ubuntu. Simply run the following commands:
 
 ```
+$ sudo /bin/echo -e "deb http://www.nmon.net/apt x64/\ndeb http://www.nmon.net/apt all/" > /etc/apt/sources.list.d/ntop.list
+$ sudo apt-get update
 $ sudo apt-get install nprobe
 $ git clone https://github.com/fontanellif/nprobe-ELK.git
 $ cd nprobe-ELK
 $ chmod +x elk.sh
 $ sudo ./elk.sh
-
 ```
 
-To run logstash use the following command:
+Than you need to run nProbe:
 
 ```
-$ sudo ./logstash -h
-usage: ./logstash options
-
-This script run logstash
-
-OPTIONS:
-   -h      Show this message
-   -e      Elasticsearch configuration path. Default: /etc/elasticsearch/ (optional)
-   -l      Logstash configuration file. Default: /etc/logstash/logstash.conf (optional)
-   -w      Active logstash web UI.
-   -v      Verbose
-
-INFO:
- In order to delete all elasticsearch index, please run this command while logstash is running: curl -XDELETE 'http://localhost:9200/'
+$ nprobe -T "%IPV4_SRC_ADDR %L4_SRC_PORT %IPV4_DST_ADDR %L4_DST_PORT %PROTOCOL %IN_BYTES %OUT_BYTES %FIRST_SWITCHED %LAST_SWITCHED %HTTP_SITE %HTTP_RET_CODE %IN_PKTS %OUT_PKTS %IP_PROTOCOL_VERSION %APPLICATION_ID %L7_PROTO_NAME %ICMP_TYPE" --tcp "127.0.0.1:5556" -b 2 -i eth0 --json-labels
 ```
-
-Elasticsearch and logstash will be listening on their default port. Kibana will be listening on 9292 port.
-
-# Examples
-We have prepared few example of logstash configuration for different input types. You can find this examples in the examples folder.
