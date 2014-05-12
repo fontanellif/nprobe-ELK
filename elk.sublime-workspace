@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"EL",
+				"ELK"
+			],
+			[
 				"e",
 				"examples"
 			],
@@ -468,7 +472,7 @@
 			"file": "elk.sh",
 			"settings":
 			{
-				"buffer_size": 2540,
+				"buffer_size": 2706,
 				"line_ending": "Unix",
 				"name": "#!/bin/bash"
 			}
@@ -478,6 +482,14 @@
 			"settings":
 			{
 				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logstash/conf.d/nprobe.conf",
+			"settings":
+			{
+				"buffer_size": 182,
 				"line_ending": "Unix"
 			}
 		}
@@ -832,7 +844,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -1111,27 +1123,21 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 9,
 					"file": "elk.sh",
 					"settings":
 					{
-						"buffer_size": 2540,
+						"buffer_size": 2706,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2515,
-								2538
+								2704,
+								2704
 							]
 						],
 						"settings":
@@ -1143,7 +1149,7 @@
 							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 355.0,
+						"translation.y": 310.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1176,6 +1182,37 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "logstash/conf.d/nprobe.conf",
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -1197,18 +1234,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
