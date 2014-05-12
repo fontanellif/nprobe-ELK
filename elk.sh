@@ -50,11 +50,15 @@ tar zxvf kibana-*
 rm kibana-*.tar.gz
 mv kibana-* kibana
 
-# Install and configure the Kibana frontend
+################################ nprobe ELK ################################
+echo 'Configuring nProbe ELK'
+cp logstash/conf.d/* /etc/logstash/conf.d/
+
+
 echo 'Restart ELK'
 service logstash restart
 service elasticsearch restart
 
 # All Done
 echo "Installation has completed!!"
-echo -e "Connect to http://localhost/kibana"
+echo -e "Start nprobe and connect to http://localhost/kibana/index.html#/dashboard/file/logstash.json"
