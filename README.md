@@ -10,7 +10,8 @@
 The entire setup has been automated for Ubuntu. Simply run the following commands:
 
 ```
-$ sudo /bin/echo -e "deb http://www.nmon.net/apt x64/\ndeb http://www.nmon.net/apt all/" > /etc/apt/sources.list.d/ntop.list
+$ sudo /bin/echo -e "deb http://www.nmon.net/apt-stable/12.04/ x64/\ndeb http://www.nmon.net/apt-stable/12.04/ all/" > /etc/apt/sources.list.d/ntop.list
+$ wget -qO - http://www.nmon.net/apt-stable/ntop.key | sudo apt-key add -
 $ sudo apt-get update
 $ sudo apt-get install nprobe
 $ git clone https://github.com/fontanellif/nprobe-ELK.git
